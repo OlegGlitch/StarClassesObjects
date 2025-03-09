@@ -33,7 +33,7 @@ public class PlanetUsage {
 
         System.out.println("mercury.equals(venus) " + mercury.equals(venus));
 
-
+        System.out.println();
         System.out.println("Mercury mass: " + mercury.computeMass(22));
         System.out.println("Venus mass: " + venus.computeMass(22));
     }
